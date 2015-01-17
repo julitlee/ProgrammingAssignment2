@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##The two functions in this program are used to cache the inverse of a matrix for faster calculations in the future.
 
 ##This first function is called "makeCacheMatrix". makeCacheMatrix is a function where the user defines a "special matrix" object that is cached for another function cacheSolve.
@@ -50,3 +51,6 @@ cacheSolve <- function (x=matrix(), ...) {
 ##[,1] [,2]
 ##[1,]   -2  1.5
 ##[2,]    1 -0.5
+=======
+ 
+>>>>>>> origin/master
